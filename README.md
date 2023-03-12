@@ -1,3 +1,14 @@
+# EasyAnswer
+EasyAnswer is a comprehensive application and web platform designed to provide users with a convenient and intuitive way to reply to messages and emails quickly and efficiently. Developed by Afonso Quinaz and Francisco Vale, this project is aimed at simplifying the process of managing and responding to messages and emails.
+
+With EasyAnswer, users can easily manage their messages and emails, view message threads, and quickly compose and send replies. The platform features a user-friendly interface that makes it easy to navigate and find the information users need, and is designed to provide quick and efficient results.
+
+The EasyAnswer app is available for download on both iOS and Android, and the web platform can be accessed from any device with an internet connection. Whether you're on the go or at your desk, ReplyEase is the perfect tool to help you manage and respond to your messages and emails.
+
+This project was built using the latest technologies and frameworks, ensuring that it's both reliable and scalable. It's open source and actively maintained by the developers, so users can expect regular updates and improvements to the platform over time.
+
+Overall, EasyAnswer is a powerful and user-friendly tool that makes it easy to manage and respond to your messages and emails quickly and efficiently. Whether you're a busy professional, a student, or just someone who wants to stay on top of their communications, ReplyEase is the perfect solution.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
