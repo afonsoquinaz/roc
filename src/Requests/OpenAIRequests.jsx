@@ -14,7 +14,7 @@ async function getAnswer(prompt){
         console.log(completion.data.choices[0].text)
         return completion.data.choices[0].text
       } catch (error) {
-        console.log("ERROR")
+        console.log("ERROR ")
         console.log(error)
 
         if (error.response) {
